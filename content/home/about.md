@@ -16,7 +16,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "MSPN in Health Services Research"
+  course = "MSPH in Health Services Research"
   institution = "Emory University"
   year = 2017
 
